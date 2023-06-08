@@ -1,0 +1,836 @@
+
+
+
+
+
+
+
+
+Online Gold Loan EMI Calculator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+                          Stocks
+                        
+
+
+
+
+
+
+
+
+                          IPOs & more
+                        
+
+
+
+
+
+
+
+
+                          Mutual Funds
+                        
+
+
+
+
+
+
+
+
+
+                          Pension Funds
+                        
+
+
+
+
+Private Wealth
+
+Resources
+
+
+
+
+
+
+
+                          Research
+                        
+
+
+
+
+
+
+
+
+                        One Percent Academy
+                        
+
+
+
+
+
+
+
+
+                          Blogs
+                        
+
+
+
+
+
+
+
+
+                          Calculators
+                        
+
+
+
+
+
+Company
+
+
+
+
+
+
+
+                          About us
+                        
+
+
+
+
+
+
+
+
+                          Careers
+                        
+
+
+
+
+
+
+
+
+                          Contact us
+                        
+
+
+
+
+
+
+
+Login
+Download app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog 
+
+ Calculators 
+
+
+
+
+
+
+
+Calculators
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Gold Loan EMI Calculator
+
+
+
+
+Deepak 
+
+Written by - Deepak 
+
+
+
+
+March 2, 2022						
+						6 minutes					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loans are an easier way to get the necessary financial assistance to meet the needs of a person or a business for a short term or a long term purpose. It is a relatively cheaper mode of getting the necessary finance rather than spending life savings. There are many types of loans that can be availed by the borrowers based on the purpose of loan like personal loan, home loan, car loan, gold loan, etc. 
+Given below is the meaning of gold loans and gold loan EMI calculator as well as the need for the latter.
+What is a gold loan?
+Gold loan is one of the oldest forms of loans in the lending markets. To explain it in simplest terms it is the loan given by a bank or an NBFC against the gold owned and deposited by the borrower. The gold deposited is kept safe by the lender and returned in the same form upon the full repayment of the loan. 
+Gold loans can be used for various purposes like meeting personal expenses, emergencies, for the purpose of the business, etc. The rate of interest on such gold loans is relatively lower as compared to personal loans or business loans and the tenure is flexible ranging from weeks as per the guidelines of the lender.
+ Also, being secured in nature, these loans can be easily availed based on basic KYC. The repayment schedule in the case of gold loans can also be quite flexible provided the same is as per the agreement between the borrower and the lender. 
+What is a gold loan EMI calculator?
+The gold loan taken by the borrowers has to be repaid in equal installments over the tenure of the loan. These equal installments are known as EMI (Equated Monthly Installments) that are spread over the tenure of the loan and have to be paid at the fixed date per month as per the agreement between the borrower and the lender. The loan EMI is calculated based on three key factors namely, loan amount, tenure of loan, and rate of interest. 
+The mathematical formula to calculate gold loan EMI is mentioned below.
+EMI = P x r x {(1+r)^n/ [(1+r)^n-1]}
+In the above formula, 
+P represents the loan amount given by the lender.
+r represents the interest rate charged by the lender for the loan. 
+For this formula, the rate of interest is considered as a per month rate, therefore, r is calculated as r/12/100.
+n represents the period or the tenure of the loan and is shown in the form of the total number of months (for example, tenure of 5 years is represented as 60 months in the above formula).
+This formula can be quite complex and difficult to understand for a layman without any financial background or knowledge to calculate and implement this formula. This is where good loan EMI calculators come into the picture.
+Gold loan EMI calculator is a tool available on the website of every lender that helps them calculate the amount of EMI payable by them upon taking the gold loan. This tool is quite effective as it reduces the efforts of the borrowers and helps them get a fair idea of the EMI amount to be paid by them per month. This tool requires the borrower to provide the following basic details of the loan into the calculator. 
+
+The amount of loan sanctioned by the lender
+The rate of interest charged by the lender
+The tenure of the loan or the repayment period of the loan.
+
+What are the benefits of using a gold loan EMI calculator?
+Gold loan EMI calculator is a very common tool available on lender websites. The benefits of using the gold loan EMI calculator are mentioned below. 
+
+
+Accuracy of results 
+
+
+Gold loan EMI calculators provide 100% accurate results every time it is used to calculate the EMI for gold loans. Manual calculations can lead to errors and can also be time-consuming. Gold loan EMI calculators can erase the element of human error and give 100% accurate results each time it is used. 
+
+
+Ease of calculation
+
+
+Gold loan EMI calculator provides the borrowers with the ease of calculation process. The borrowers do not need to understand the complex mathematical formula to calculate the EMI. It is a simple mathematical tool that can be used by any person at any time by simply visiting the website of the lender or similar customer awareness websites. 
+
+
+Ease in financial planning
+
+
+The use of a gold loan EMI calculator allows the borrower to calculate the amount of EMI to be paid each month. This helps them in better financial planning and budgeting by allocating the funds more effectively.
+
+
+Multiple calculations
+
+
+Gold loan EMI calculator can be used multiple times without any restrictions. The borrower can also change any of the parameters to compute an EMI that can be best suited to the borrower’s budget.
+How to use the Fisdom  gold loan EMI calculator?
+The Fisdom  website also hosts a gold loan EMI calculator among its various calculators to compute the gold loan EMI. The inputs to be provided for this EMI calculator are,
+
+Loan amount
+Rate of interest
+Loan repayment period or tenure 
+
+Conclusion
+Gold loan EMI calculator is a very effective tool that can be used multiple times to get the exact EMI amount that has to be paid by the borrowers to repay their loan. This tool reduces the time and efforts of the borrower and also helps them to calculate the total interest that is to be paid on the gold loan.
+FAQs
+
+What is the average tenure for gold loans?
+The standard gold loan tenure can be anywhere between 3 months to 4 or 5 years depending on the guidelines of the lender.
+
+Is the gold deposited by the borrower returned in the same form or is melted by the lender?
+In gold loans, the gold deposited is retained and kept safe by the lender in the same form without any alteration to it and is given back to the borrower after repayment of the loan.
+
+Can the gold loan EMI calculator be used multiple times?
+ Yes. Gold loan EMI calculator can be used multiple times without any restrictions on the maximum number of times it can be used.
+
+Who is eligible for a gold loan?
+Any resident Indian between the age group of 18 years to 70 years can apply for a gold loan provided the gold is owned by them
+
+Why is a gold loan a better option than a personal loan?
+ There are several reasons which make a gold loan a better option than a personal loan like lower interests rates, flexible repayment schedule, minimal eligibility, and documentation, as well as quick loan disbursement.
+
+
+Related posts
+
+Online EMI Calculator
+Online Bike Loan EMI Calculator
+Car Loan EMI Calculator
+6 Easy ways to reduce EMI on loans
+
+
+
+
+
+Share the article
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+					Get exclusive content
+					and expert advice
+				
+Subscribe to fisdom to get regular updates in the finance world delivered to your inbox each month
+
+
+
+
+
+
+Subscribe
+
+
+
+
+				Fisdom Story
+			
+
+
+
+
+
+Popular CalculatorsCAGR Calculator 2023
+Compound Interest Calculator
+FD Calculator
+Gratuity Calculator – Simple Gratuity Calculation Online 2023
+HRA Calculator
+Free Online Tax Calculator for 2023-24 for Income Tax Slabs, – New vs Old Regime
+Lumpsum Calculator
+Fisdom NPS Calculator: Best free online tool for pension & annuity planning in India
+Employee Provident Fund (EPF) Calculator Online
+Online PPF Calculator 2023-24 – Calculate return for your PPF Account at current interest rate
+RD Calculator
+Retirement Calculator
+SIP Calculator
+Step Up SIP Calculator – Invest in Mutual Funds
+SWP Calculator: Best Online Tool for mutual fund Systematic Withdrawal Plan & Tax-efficient monthly income in India
+Budget 2023 Highlights: PDF Download, Key Takeaways, Important Points
+ 
+
+
+				Popular articles
+			
+
+
+
+
+
+
+Beta in Indian stocks – Types, Should you invest in high beta stocks?              
+
+
+
+
+
+
+
+
+
+Best Gold ETFs to Invest in India              
+
+
+
+
+
+
+
+
+
+Best stocks to invest for the long term in 2023              
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									National Saving Certificate Calculator Online								
+
+07 Mar								
+								7 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Business loan EMI calculator – How to calculate business loan EMI?								
+
+12 Aug								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Bike Loan EMI Calculator – Calculate amount for Two Wheeler Loan								
+
+24 Jul								
+								5 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Crypto Tax Calculator								
+
+07 Apr								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Depreciation Calculator								
+
+03 Mar								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Return on Investment (ROI) Calculator								
+
+21 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Mortgage Calculator								
+
+21 Feb								
+								7 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Online Business Loan EMI Calculator								
+
+07 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									House Loan EMI Calculator								
+
+07 Feb								
+								5 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Car Loan EMI Calculator								
+
+07 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Online EMI Calculator								
+
+07 Feb								
+								5 minutes							
+
+
+
+
+
+
+
+
+
+
+Download one of India's best wealth management apps
+Join more than one million investors and take control of your wealth
+Download app
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download the Fisdom app here
+       Google Play      App store  
+
+
+
+
+
+CompanyAbout us
+Pricing
+Careers
+Blog
+Fisdom in News
+
+
+
+
+
+ProductStock / F&O
+Mutual Fund
+IPO & more
+Pension Funds
+ 
+
+
+
+Help & SupportKnowledge Base
+Contact us
+Brokerage Calculator
+Advisory KYC Updation
+Policies
+Privacy Policy
+Terms
+Investor Charter
+Investor Complaints
+Download Forms
+Disclaimer
+Refund
+Scheme Offer Documents
+Bank Details
+Glossary
+Regulatory Disclosure
+ 
+
+
+
+
+Follow us:
+
+
+
+
+We are well certified
+
+
+
+SEBI Registered Investment Advisor INA200005323
+
+
+
+BSE Registered Mutual Fund Distributor Code No:10140
+
+
+
+IRDAI Corporate Agent Finwizard Technology Pvt Ltd CA License No:
+            CA0505
+            License Valid till: 19-Jun-2023
+
+
+
+256 Bit SSL encryption security
+
+
+
+Association of Mutual Funds of India Registered Mutual Fund
+            Distributor
+            ARN:103168
+
+
+2023 Copyright, All Right Reserved, Built for Investors, Pro Traders &
+        Beginners with Finwizard Technology Private Limited is a member of National Stock Exchange of India Limited (Member code:90228) & BSE Limited (Member code:6696 ) SEBI Registration No. INZ000209036SEBI Depository Participant Registration No. IN-DP-572-2021Mutual Fund distributor with AMFI Registration No. ARN:103168SEBI Registered Investment Advisor INA200005323Finwizard Technology Private Limited CIN number : U74900KA2015PTC080747SEBI Research Analyst No. INH000010238Registered Office AddressQueens Paradise, No. 16/1, 1st Floor Curve Road, Shivaji Nagar, Bengaluru, Karnataka 560071Correspondence/Communication AddressOffice No.1002, A wing, 10th Floor, Kanakia Wall Street, Hanuman Nagar, Andheri Kurla Road, Chakala, Andheri (East), Mumbai - 400093Tel: +91 96425 96425Compliance Officer Name : Krishna Jakkula; Email ID : compliance@fisdom.com ; +91 89519 49507For any grievances related to stock broking/dp, please write to grievances@fisdom.com,Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBIProcedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievancesDisclaimer: Investment in securities market are subject to market risks, read all the related documents carefully before investing.Download Client Registration Documents (Rights & Obligations, Risk Disclosure Document, Do's & Don'ts) in Vernacular Language: BSE | NSEAttention Investors +Prevent unauthorised transactions in your account. Update your mobile numbers/email IDs with your stock brokers. Receive information of your transactions directly from Exchange on your mobile/email at the end of the day. Issued in the interest of investors.KYC is one time exercise while dealing in securities markets - once KYC is done through a SEBI registered intermediary (broker, DP, Mutual Fund etc.), you need not undergo the same process again when you approach another intermediary.If you are subscribing to an IPO, there is no need to issue a cheque. Please write the Bank account number and sign the IPO application form to authorize your bank to make payment in case of allotment. In case of non allotment the funds will remain in your bank account.Stock brokers can accept securities as margins from clients only by way of pledge in the depository system w. e. f. September 01, 2020.Update your e-mail and phone number with your stock broker/depository participant and receive OTP directly from depository on your e-mail and/or mobile number to create pledge.Check your securities/MF/bonds in the consolidated account statement issued by NSDL/CDSL every month. Investors should be cautious on unsolicited emails and SMS advising to buy or sell securities and trade only on the basis of informed decisions.Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.View more information on Investor's Attention“Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.”Members are also advised to display the following messages on their respective websites under a separate banner “Advisory for investors”:Attention Investors!Beware of fixed/guaranteed/regular returns/ capital protection schemes. Brokers or their authorized persons or any of their associates are not authorized to offer fixed/guaranteed/regular returns/ capital protection on your investment or authorized to enter into any loan agreement with you to pay interest on the funds offered by you. Please note that in case of default of a member claim for funds or securities given to the broker under any arrangement/ agreement of indicative return will not be accepted by the relevant Committee of the Exchange as per the approved norms.Do not keep funds idle with the Stock Broker. Please note that your stock broker has to return the credit balance lying with them, within three working days in case you have not done any transaction within last 30 calendar days. Please note that in case of default of a Member, claim for funds and securities, without any transaction on the exchange will not be accepted by the relevant Committee of the Exchange as per the approved norms.Check the frequency of accounts settlement opted for. If you have opted for running account, please ensure that your broker settles your account and, in any case, not later than once in 90 days (or 30 days if you have opted for 30 days settlement). In case of declaration of trading member as defaulter, the claims of clients against such defaulter member would be subject to norms for eligibility of claims for compensation from IPF to the clients of the defaulter member. These norms are available on Exchange website at following link:BSE | NSE.Brokers are not permitted to accept transfer of securities as margin. Securities offered as margin/ collateral MUST remain in the account of the client and can be pledged to the broker only by way of ‘margin pledge’, created in the Depository system. Clients are not permitted to place any securities with the broker or associate of the broker or authorized person of the broker for any reason. Broker can take securities belonging to clients only for settlement of securities sold by the client.Always keep your contact details viz. Mobile number/Email ID updated with the stock broker. Email and mobile number is mandatory and you must provide the same to your broker for updation in Exchange records. You must immediately take up the matter with Stock Broker/Exchange if you are not receiving the messages from Exchange/Depositories regularly.Don't ignore any emails/SMSs received from the Exchange for trades done by you. Verify the same with the Contract notes/Statement of accounts received from your broker and report discrepancy, if any, to your broker in writing immediately and if the Stock Broker does not respond, please take this up with the Exchange/Depositories forthwith.Check messages sent by Exchanges on a weekly basis regarding funds and securities balances reported by the trading member, compare it with the weekly statement of account sent by broker and immediately raise a concern to the exchange if you notice a discrepancy.Please do not transfer funds, for the purposes of trading to anyone, including an authorized person or an associate of the broker, other than a SEBI registered Stock broker.”Precautions for clients dealing in OptionsClients/Investors are advised to avoid below-mentioned practices:Sharing of trading credentials – login id & passwords including OTP’s.Trading in leveraged products like options without proper understanding, which could lead tolossesWriting/ selling options or trading in option strategies based on tips, without basic knowledge& understanding of the product and its risksDealing in unsolicited tips through WhatsApp, Telegram, YouTube, Facebook, SMS, calls, etc.Trading in “Options” based on recommendations from unauthorised / unregistered investmentadvisors and influencers.
+
+
+
+
+
+
+
+
+
+
+​
+
+
+
+
+
+
+
+Close modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,850 @@
+
+
+
+
+
+
+
+
+
+Return on Investment - How to Calculate Return on Investment ? - Online Demat, Trading, and Mutual Fund Investment in India - Fisdom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+                          Stocks
+                        
+
+
+
+
+
+
+
+
+                          IPOs & more
+                        
+
+
+
+
+
+
+
+
+                          Mutual Funds
+                        
+
+
+
+
+
+
+
+
+
+                          Pension Funds
+                        
+
+
+
+
+Private Wealth
+
+Resources
+
+
+
+
+
+
+
+                          Research
+                        
+
+
+
+
+
+
+
+
+                        One Percent Academy
+                        
+
+
+
+
+
+
+
+
+                          Blogs
+                        
+
+
+
+
+
+
+
+
+                          Calculators
+                        
+
+
+
+
+
+Company
+
+
+
+
+
+
+
+                          About us
+                        
+
+
+
+
+
+
+
+
+                          Careers
+                        
+
+
+
+
+
+
+
+
+                          Contact us
+                        
+
+
+
+
+
+
+
+Login
+Download app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog 
+
+ Stock Markets 
+
+
+
+
+
+
+
+Stock Markets
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Return on Investment – How to Calculate Return on Investment ?
+
+
+
+
+AkshathaSajumon 
+
+Written by - Akshatha Sajumon 
+
+
+
+
+February 15, 2022						
+						6 minutes					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In today’s dynamic market scenario, investors must always keep a close watch on their investments. One of the ways to check on the periodic investment performance is to look at the investment’s return or simply the return on investment (ROI). This is especially applicable to investments that are easily influenced by changing market scenarios, such as mutual funds, stock market investments, etc.
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1
+What is return on investment?
+
+ 
+2
+How do you calculate ROI?
+
+ 
+3
+What are the main uses of ROI?
+
+ 
+4
+What is a good ROI ratio?
+
+ 
+5
+What are the benefits and flaws of ROI?
+
+ 
+6
+Conclusion
+
+ 
+7
+FAQs
+
+ 
+8
+Related Articles
+
+
+
+Among the different performance metrics that can be used to check an investment’s health, Return on Investment or ROI is considered one of the most useful and easy to calculate. Let’s understand the concept of ROI in detail.
+What is return on investment?
+When an individual investor makes an investment or an organization enters into a business endeavor, ROI helps them in understanding how much profit or loss has been made from the same. 
+Return on investment (ROI) is:
+a metric that helps investors know the profitability of their investment. a calculation that compares the amount paid towards an investment against how much earnings were made from the investment. helpful in evaluating the efficiency of the investment. related to other metrics, such as return on assets (ROA) and return on equity (ROE).
+How do you calculate ROI?
+Return on investment can be obtained by dividing the net profit or loss from an investment with the cost of investment. It is expressed in percentage form, thereby allowing investors and other uses to easily compare the profitability or effectiveness of different investment options. Here’s how to go about calculating this ratio:
+To calculate return on investment, one must:
+divide the earnings from an investment (also called net profits) by the cost of the investmentmultiply the above result by 100mention the result in percentage format. 
+Here are two commonly used ROI formula:
+ROI = (Net Profit / Investment cost) x 100
+ROI = (Present value of investment – Cost of investment / Cost of investment) x 100
+Let’s take an example to understand how the ROI calculation works:
+Suppose you invested Rs. 5,000 in a stock ABC few years ago. You decide to now sell the stocks at Rs. 5,500. 
+The ROI on this investment will be:
+ROI = (5,500 – 5,000 / 5,000) x 100 = 10%
+The assumption in this calculation is that there are no:
+capital gains taxes or any buying/selling related fees 
+The main advantage of using ROI calculation is its mention in percentage format as against an amount. Investors can easily compare different ROI percentages of different investments across various categories. This can help them in identifying the investment that can offer the highest yield.
+What are the main uses of ROI?
+ROI can be used by investors to:
+evaluate existing portfolioscompare across investment optionsmake better investment decisions
+ROI can also be used by business owners to:
+measure and compare investment avenuesestimate the return on costs such as marketing, rental expenses, etc
+It is important to keep in mind that ROI does not eliminate any risk or uncertainty associated with an investment. Therefore, when one uses ROI for making future investment choices, he/she must take into account the risk that the estimates or projections of earnings can involve. For instance, the projections may be too optimistic or could be too conservative. Also, historical performance of an investment is no assurance of the investment’s future success.
+What is a good ROI ratio?
+As per conventional theory, a yearly ROI of about 7% or more is considered to be good for stock market related investments. That being said, estimating the appropriate ROI for any investment requires investors to give careful consideration instead of going by a simple benchmark. 
+If an investor uses the Sensex performance as a benchmark for investing in stocks, it may not be appropriate considering the risk level that he/she is willing to take on or the risk associated with the asset class of investment. 
+To know what ROI is good for a certain investment, an investor must ask the following questions:
+How much risk appetite do I have?What if I lose the funds that I invest?How much profit do I want from this investment to bear the risk of losing money?What are the alternatives for using the available funds?
+What are the benefits and flaws of ROI?
+Some of the benefits and disadvantages of ROI metric are:
+ParameterAdvantageDisadvantageCalculationROI can be easily calculated even by new investors. All it requires is one to know the cost and profit of an investment. ROI is not self-sufficient as a metric and has to be used in conjunction with other metrics like return on equity and rate of return. UsageEasy to understand and use.While it is easy to understand and use, some investors may not be aware of the aspects that are ignored by the calculation, such as inflation.Multiple usesROI can be used by investors and corporations alike.When companies use ROI for presentation purposes, they may manipulate the numbers to project positive earnings.
+Conclusion
+ROI is an easy to understand and calculate metric for gauging the efficiency of an investment. It is widely used by investors to compare among multiple similar investment options. While using ROI can be a good start in evaluating an investment, investors must not stop at that. ROI should not be the only metric that investors use to make investment decisions, as it does not consider the risk or investment time horizon. ROI also requires one to use an exact estimate of all the associated costs. 
+FAQs
+What are the alternatives to ROI? One of the alternatives that can be used in place of ROI is annualized ROI. It takes into account the time period of investment, thereby allowing investors to make more accurate comparisons on returns from different investments.  What are financial ratios? Financial ratios are calculated using numerical values sourced from financial statements. These help in gaining a meaningful insight into a company’s performance. The numbers are sourced from a company’s financial statements, such as balance sheet, income statement, etc.  What are the common mistakes investors make while calculating and using ROI? Investors often fail to consider transaction costs and dividends into the ROI for stock investments. The former is a cost associated with investment, whereas the latter is a gain from the investment. Only if both these are taken into account the ROI can give accurate results. If not, then the ROI can be misrepresented.  What are some of the common metrics used to evaluate investment performance? Some of the common metrics used in evaluating investment performance include absolute returns, annualized returns, rate of return, return on investment and CAGR or compounded annual growth rate.  Why is inflation considered while measuring investment returns? Inflation reduces the power of the rupee. It is especially important while measuring fixed income returns since it has an inverse relation with interest rates. Inflation-adjusted returns offer a better insight to investors and tell the real returns on investment.  
+Related Articles
+How To Add i-SIP Biller In ICICIEvaluation of Financial Instruments: 101Mutual Fund Metrics -Alpha, Beta, Standard Deviation, R-squared & Sharpe RatioNet Profit Margin – Definition, Formula and Example CalculationTPIN and OTP Based Verification for Selling Stocks
+
+
+
+
+Share the article
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+					Get exclusive content
+					and expert advice
+				
+Subscribe to fisdom to get regular updates in the finance world delivered to your inbox each month
+
+
+
+
+
+
+Subscribe
+
+
+
+
+				Fisdom Story
+			
+
+
+
+
+
+Popular CalculatorsCAGR Calculator 2023
+Compound Interest Calculator
+FD Calculator
+Gratuity Calculator – Simple Gratuity Calculation Online 2023
+HRA Calculator
+Free Online Tax Calculator for 2023-24 for Income Tax Slabs, – New vs Old Regime
+Lumpsum Calculator
+Fisdom NPS Calculator: Best free online tool for pension & annuity planning in India
+Employee Provident Fund (EPF) Calculator Online
+Online PPF Calculator 2023-24 – Calculate return for your PPF Account at current interest rate
+RD Calculator
+Retirement Calculator
+SIP Calculator
+Step Up SIP Calculator – Invest in Mutual Funds
+SWP Calculator: Best Online Tool for mutual fund Systematic Withdrawal Plan & Tax-efficient monthly income in India
+Budget 2023 Highlights: PDF Download, Key Takeaways, Important Points
+ 
+
+
+				Popular articles
+			
+
+
+
+
+
+
+Large Cap Stocks – What is it, Features & Factors to be Considered              
+
+
+
+
+
+
+
+
+
+Top Stocks Under Rs. 100 to Invest in 2023              
+
+
+
+
+
+
+
+
+
+Beta in Indian stocks – Types, Should you invest in high beta stocks?              
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									Large Cap Stocks – What is it, Features & Factors to be Considered								
+
+08 Jun								
+								9 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									Beta in Indian stocks – Types, Should you invest in high beta stocks?								
+
+07 Jun								
+								8 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									Top SIX Online Stock Market Courses in India-2023								
+
+05 Jun								
+								8 minutes							
+
+
+
+
+
+
+
+
+FeaturedStock Markets 
+
+
+									IKIO Lighting Limited IPO – Price, Lot size, Open date, GMP & Review								
+
+05 Jun								
+								6 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									Types of Earnings Per Share(EPS) – Calculation & How to Use Them 								
+
+01 Jun								
+								10 minutes							
+
+
+
+
+
+
+
+
+FeaturedStock Markets 
+
+
+									Top Traders in India								
+
+31 May								
+								9 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									What are monopoly stocks? Top monopoly stocks in India								
+
+30 May								
+								11 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									Hedging – What is it, Types, Strategies, FAQs								
+
+29 May								
+								8 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									Put Call Ratio (PCR) – Definition, Formula and Calculation								
+
+29 May								
+								7 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									Can stocks make you rich? What are investment options in stock markets? 								
+
+28 May								
+								7 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									Central Pivot Range – What is it? Calculation, Interpretation & Benefits								
+
+28 May								
+								7 minutes							
+
+
+
+
+
+
+
+
+Stock Markets 
+
+
+									BSE Sensex: What is it? List of stocks on Sensex, History, Calculation								
+
+25 May								
+								6 minutes							
+
+
+
+
+
+
+
+
+
+
+Download one of India's best wealth management apps
+Join more than one million investors and take control of your wealth
+Download app
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download the Fisdom app here
+       Google Play      App store  
+
+
+
+
+
+CompanyAbout us
+Pricing
+Careers
+Blog
+Fisdom in News
+
+
+
+
+
+ProductStock / F&O
+Mutual Fund
+IPO & more
+Pension Funds
+ 
+
+
+
+Help & SupportKnowledge Base
+Contact us
+Brokerage Calculator
+Advisory KYC Updation
+Policies
+Privacy Policy
+Terms
+Investor Charter
+Investor Complaints
+Download Forms
+Disclaimer
+Refund
+Scheme Offer Documents
+Bank Details
+Glossary
+Regulatory Disclosure
+ 
+
+
+
+
+Follow us:
+
+
+
+
+We are well certified
+
+
+
+SEBI Registered Investment Advisor INA200005323
+
+
+
+BSE Registered Mutual Fund Distributor Code No:10140
+
+
+
+IRDAI Corporate Agent Finwizard Technology Pvt Ltd CA License No:
+            CA0505
+            License Valid till: 19-Jun-2023
+
+
+
+256 Bit SSL encryption security
+
+
+
+Association of Mutual Funds of India Registered Mutual Fund
+            Distributor
+            ARN:103168
+
+
+2023 Copyright, All Right Reserved, Built for Investors, Pro Traders &
+        Beginners with Finwizard Technology Private Limited is a member of National Stock Exchange of India Limited (Member code:90228) & BSE Limited (Member code:6696 ) SEBI Registration No. INZ000209036SEBI Depository Participant Registration No. IN-DP-572-2021Mutual Fund distributor with AMFI Registration No. ARN:103168SEBI Registered Investment Advisor INA200005323Finwizard Technology Private Limited CIN number : U74900KA2015PTC080747SEBI Research Analyst No. INH000010238Registered Office AddressQueens Paradise, No. 16/1, 1st Floor Curve Road, Shivaji Nagar, Bengaluru, Karnataka 560071Correspondence/Communication AddressOffice No.1002, A wing, 10th Floor, Kanakia Wall Street, Hanuman Nagar, Andheri Kurla Road, Chakala, Andheri (East), Mumbai - 400093Tel: +91 96425 96425Compliance Officer Name : Krishna Jakkula; Email ID : compliance@fisdom.com ; +91 89519 49507For any grievances related to stock broking/dp, please write to grievances@fisdom.com,Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBIProcedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievancesDisclaimer: Investment in securities market are subject to market risks, read all the related documents carefully before investing.Download Client Registration Documents (Rights & Obligations, Risk Disclosure Document, Do's & Don'ts) in Vernacular Language: BSE | NSEAttention Investors +Prevent unauthorised transactions in your account. Update your mobile numbers/email IDs with your stock brokers. Receive information of your transactions directly from Exchange on your mobile/email at the end of the day. Issued in the interest of investors.KYC is one time exercise while dealing in securities markets - once KYC is done through a SEBI registered intermediary (broker, DP, Mutual Fund etc.), you need not undergo the same process again when you approach another intermediary.If you are subscribing to an IPO, there is no need to issue a cheque. Please write the Bank account number and sign the IPO application form to authorize your bank to make payment in case of allotment. In case of non allotment the funds will remain in your bank account.Stock brokers can accept securities as margins from clients only by way of pledge in the depository system w. e. f. September 01, 2020.Update your e-mail and phone number with your stock broker/depository participant and receive OTP directly from depository on your e-mail and/or mobile number to create pledge.Check your securities/MF/bonds in the consolidated account statement issued by NSDL/CDSL every month. Investors should be cautious on unsolicited emails and SMS advising to buy or sell securities and trade only on the basis of informed decisions.Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.View more information on Investor's Attention“Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.”Members are also advised to display the following messages on their respective websites under a separate banner “Advisory for investors”:Attention Investors!Beware of fixed/guaranteed/regular returns/ capital protection schemes. Brokers or their authorized persons or any of their associates are not authorized to offer fixed/guaranteed/regular returns/ capital protection on your investment or authorized to enter into any loan agreement with you to pay interest on the funds offered by you. Please note that in case of default of a member claim for funds or securities given to the broker under any arrangement/ agreement of indicative return will not be accepted by the relevant Committee of the Exchange as per the approved norms.Do not keep funds idle with the Stock Broker. Please note that your stock broker has to return the credit balance lying with them, within three working days in case you have not done any transaction within last 30 calendar days. Please note that in case of default of a Member, claim for funds and securities, without any transaction on the exchange will not be accepted by the relevant Committee of the Exchange as per the approved norms.Check the frequency of accounts settlement opted for. If you have opted for running account, please ensure that your broker settles your account and, in any case, not later than once in 90 days (or 30 days if you have opted for 30 days settlement). In case of declaration of trading member as defaulter, the claims of clients against such defaulter member would be subject to norms for eligibility of claims for compensation from IPF to the clients of the defaulter member. These norms are available on Exchange website at following link:BSE | NSE.Brokers are not permitted to accept transfer of securities as margin. Securities offered as margin/ collateral MUST remain in the account of the client and can be pledged to the broker only by way of ‘margin pledge’, created in the Depository system. Clients are not permitted to place any securities with the broker or associate of the broker or authorized person of the broker for any reason. Broker can take securities belonging to clients only for settlement of securities sold by the client.Always keep your contact details viz. Mobile number/Email ID updated with the stock broker. Email and mobile number is mandatory and you must provide the same to your broker for updation in Exchange records. You must immediately take up the matter with Stock Broker/Exchange if you are not receiving the messages from Exchange/Depositories regularly.Don't ignore any emails/SMSs received from the Exchange for trades done by you. Verify the same with the Contract notes/Statement of accounts received from your broker and report discrepancy, if any, to your broker in writing immediately and if the Stock Broker does not respond, please take this up with the Exchange/Depositories forthwith.Check messages sent by Exchanges on a weekly basis regarding funds and securities balances reported by the trading member, compare it with the weekly statement of account sent by broker and immediately raise a concern to the exchange if you notice a discrepancy.Please do not transfer funds, for the purposes of trading to anyone, including an authorized person or an associate of the broker, other than a SEBI registered Stock broker.”Precautions for clients dealing in OptionsClients/Investors are advised to avoid below-mentioned practices:Sharing of trading credentials – login id & passwords including OTP’s.Trading in leveraged products like options without proper understanding, which could lead tolossesWriting/ selling options or trading in option strategies based on tips, without basic knowledge& understanding of the product and its risksDealing in unsolicited tips through WhatsApp, Telegram, YouTube, Facebook, SMS, calls, etc.Trading in “Options” based on recommendations from unauthorised / unregistered investmentadvisors and influencers.
+
+
+
+
+
+
+
+
+
+
+​
+
+
+
+
+
+
+
+Close modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

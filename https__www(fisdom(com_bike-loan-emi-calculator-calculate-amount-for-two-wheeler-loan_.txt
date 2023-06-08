@@ -1,0 +1,804 @@
+
+
+
+
+
+
+
+
+
+Bike Loan EMI Calculator - Calculate amount for Two Wheeler Loan - Online Demat, Trading, and Mutual Fund Investment in India - Fisdom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+                          Stocks
+                        
+
+
+
+
+
+
+
+
+                          IPOs & more
+                        
+
+
+
+
+
+
+
+
+                          Mutual Funds
+                        
+
+
+
+
+
+
+
+
+
+                          Pension Funds
+                        
+
+
+
+
+Private Wealth
+
+Resources
+
+
+
+
+
+
+
+                          Research
+                        
+
+
+
+
+
+
+
+
+                        One Percent Academy
+                        
+
+
+
+
+
+
+
+
+                          Blogs
+                        
+
+
+
+
+
+
+
+
+                          Calculators
+                        
+
+
+
+
+
+Company
+
+
+
+
+
+
+
+                          About us
+                        
+
+
+
+
+
+
+
+
+                          Careers
+                        
+
+
+
+
+
+
+
+
+                          Contact us
+                        
+
+
+
+
+
+
+
+Login
+Download app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog 
+
+ Calculators 
+
+
+
+
+
+
+
+Calculators
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Bike Loan EMI Calculator – Calculate amount for Two Wheeler Loan
+
+
+
+
+RudriRawell 
+
+Written by - Rudri Rawell 
+
+
+
+
+July 24, 2022						
+						5 minutes					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+In a country like India, given the condition of our roads and need for immediate accessibility, lack of good public transport, two-wheelers have become the go-to solution for most Indians. India is considered to be among the top 5 markets in the two-wheeler segment. This industry also saw one of the highest impacts of the covid pandemic as sales of the industry giants in the country plummeted one after the either. However, the industry is slowly seeing an upswing, especially in the electric two-wheeler segment which is seen an overall growth of 132%. 
+Although two-wheelers are definitely cheaper than four-wheelers, they are still out of reach for many Indians. Catering to this need, there are multiple lenders that provide easy bike loans at affordable interest rates for a short-term tenure ranging from 12 months to 5 years (depending on the lender). Borrowers have to repay this loan within the tenure through EMIs failing which they may have to pay a penalty or their vehicle stands hypothecated as per the agreement with the lender. 
+For this purpose, it is important to understand the meaning and calculation of EMI. 
+What is a bike loan EMI?
+The loan taken for the purchase of any two-wheeler comes in the bike loan category. This also includes loans for the purchase of electronic vehicles. The loan for purchasing a two-wheeler has to be repaid within the tenure as per the agreed repayment schedule. This repayment is in the form of fixed monthly payments known as EMI (Equated Monthly Instalments). This EMI can be repaid through various options as per the convenience of the borrower. 
+The three main components in the calculation of bike loan EMI are the loan amount required, the rate of interest, and the tenure of the loan. Using these three components the mathematical formula for calculating bike loan EMI is mentioned below.
+EMI = EMI = P x r x {(1+r)^n/ [(1+r)^n-1]}
+In the above formula, 
+P = The loan amount given by the lender.
+r = The prevailing rate of interest charged by the lender for the loan. An important point to remember is that this formula requires ‘r’ to be the per month rate. Therefore, it is calculated as r/12/100.
+n = The tenure of the loan and is represented as the total number of months in the tenure (for example, tenure of 3 years is represented as 36 months in the above formula).
+Let us consider an example to understand the calculation of bike loan EMI in a better manner. 
+Mr. X purchased a bike by taking a loan of Rs. 80,000 from ABC bank at the rate of 10% per annum for a period of 3 years. The EMI calculation, in this case, is given below.
+EMI = 80000 * 0.008333 * {(1+0.08333)^36 / [(1+0.008333)^36 – 1]}
+EMI = Rs. Rs. 2.581
+What is a bike loan EMI calculator?
+Bike Loan EMI calculator is a very efficient tool that is available for the benefit of the borrowers on the website of all the lenders as well as other websites that aim at customer awareness. This tool also uses the three components mentioned above to calculate the EMI. The USP of the bike loan EMI calculator is that it reduces the efforts of the borrower and provides a 100% accurate calculation. This tool provides the EMI calculations within seconds of inputting the data and allows the users to compare competing loan options from different lenders. Additionally, the bike loan EMI calculator will also help in computing the total interest that is to be paid by the borrower on the loan. 
+How to use the Finity bike loan EMI calculator?
+The bike loan EMI calculator is available on FInity under the tab ‘Resources’ on the homepage of the website. This tool is available free of cost and can be used multiple times by the users to calculate their bike loan EMI by altering the data as per their needs. 
+The steps to use the Finity bike loan EMI calculator are,
+
+Click on the resources tab on the homepage and select ‘Bike Loan EMI calculator’
+A new page will be displayed on the screen, where users will have to enter the required data i.e.,
+
+Loan amount
+Tenure of loan
+Rate of interest
+
+
+After the data is provided, the tool will immediately display the amount of EMI to be paid by the borrower over the tenure of the loan. 
+
+Conclusion
+The bike loan EMI calculators have become the first point of reference for the borrowers looking for a bike loan to purchase any two-wheeler. This tool helps in speeding up the process and assures accuracy at the same time without any charge. This makes it quite useful for every borrower to assure that they get the best loan at the lowest EMI that suits their needs
+FAQs
+
+1. What are the advantages of the Finity bike loan EMI calculator?
+The prime advantages of a bike loan EMI calculator are,:a) It is free of costb) It can be used multiple timesc) Easy mode of comparing the available loan options.d)  Helps in calculating the interest cost of the loan.  
+
+2. Can the bike loan EMI calculator be used to calculate the EMI of loan for purchasing an electric two-wheeler?
+Yes, a bike loan EMI calculator can be used to calculate the EMI of loan for the purchase of any two-wheeler. 
+
+3. Does the bike loan require the borrowers to make any downpayment?
+The requirement of a downpayment for the purchase of a bike using a loan depends on the guidelines of the lender.
+
+4. What is the maximum tenure for a bike loan?
+*The maximum tenure for bike loans offered by most lenders is up to 5 years. 
+
+
+Related Articles
+
+What happens when a borrower fails to repay a loan?
+6 easy ways to reduce loan EMIs
+National Savings Certificate Calculator Online
+Online EMI Calculator
+Car loan EMI calculator
+
+
+
+
+
+Share the article
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+					Get exclusive content
+					and expert advice
+				
+Subscribe to fisdom to get regular updates in the finance world delivered to your inbox each month
+
+
+
+
+
+
+Subscribe
+
+
+
+
+				Fisdom Story
+			
+
+
+
+
+
+Popular CalculatorsCAGR Calculator 2023
+Compound Interest Calculator
+FD Calculator
+Gratuity Calculator – Simple Gratuity Calculation Online 2023
+HRA Calculator
+Free Online Tax Calculator for 2023-24 for Income Tax Slabs, – New vs Old Regime
+Lumpsum Calculator
+Fisdom NPS Calculator: Best free online tool for pension & annuity planning in India
+Employee Provident Fund (EPF) Calculator Online
+Online PPF Calculator 2023-24 – Calculate return for your PPF Account at current interest rate
+RD Calculator
+Retirement Calculator
+SIP Calculator
+Step Up SIP Calculator – Invest in Mutual Funds
+SWP Calculator: Best Online Tool for mutual fund Systematic Withdrawal Plan & Tax-efficient monthly income in India
+Budget 2023 Highlights: PDF Download, Key Takeaways, Important Points
+ 
+
+
+				Popular articles
+			
+
+
+
+
+
+
+Large Cap Stocks – What is it, Features & Factors to be Considered              
+
+
+
+
+
+
+
+
+
+Top Stocks Under Rs. 100 to Invest in 2023              
+
+
+
+
+
+
+
+
+
+Beta in Indian stocks – Types, Should you invest in high beta stocks?              
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									National Saving Certificate Calculator Online								
+
+07 Mar								
+								7 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Business loan EMI calculator – How to calculate business loan EMI?								
+
+12 Aug								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Crypto Tax Calculator								
+
+07 Apr								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Depreciation Calculator								
+
+03 Mar								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Gold Loan EMI Calculator								
+
+02 Mar								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Return on Investment (ROI) Calculator								
+
+21 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Mortgage Calculator								
+
+21 Feb								
+								7 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Online Business Loan EMI Calculator								
+
+07 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									House Loan EMI Calculator								
+
+07 Feb								
+								5 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Car Loan EMI Calculator								
+
+07 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Online EMI Calculator								
+
+07 Feb								
+								5 minutes							
+
+
+
+
+
+
+
+
+
+
+Download one of India's best wealth management apps
+Join more than one million investors and take control of your wealth
+Download app
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download the Fisdom app here
+       Google Play      App store  
+
+
+
+
+
+CompanyAbout us
+Pricing
+Careers
+Blog
+Fisdom in News
+
+
+
+
+
+ProductStock / F&O
+Mutual Fund
+IPO & more
+Pension Funds
+ 
+
+
+
+Help & SupportKnowledge Base
+Contact us
+Brokerage Calculator
+Advisory KYC Updation
+Policies
+Privacy Policy
+Terms
+Investor Charter
+Investor Complaints
+Download Forms
+Disclaimer
+Refund
+Scheme Offer Documents
+Bank Details
+Glossary
+Regulatory Disclosure
+ 
+
+
+
+
+Follow us:
+
+
+
+
+We are well certified
+
+
+
+SEBI Registered Investment Advisor INA200005323
+
+
+
+BSE Registered Mutual Fund Distributor Code No:10140
+
+
+
+IRDAI Corporate Agent Finwizard Technology Pvt Ltd CA License No:
+            CA0505
+            License Valid till: 19-Jun-2023
+
+
+
+256 Bit SSL encryption security
+
+
+
+Association of Mutual Funds of India Registered Mutual Fund
+            Distributor
+            ARN:103168
+
+
+2023 Copyright, All Right Reserved, Built for Investors, Pro Traders &
+        Beginners with Finwizard Technology Private Limited is a member of National Stock Exchange of India Limited (Member code:90228) & BSE Limited (Member code:6696 ) SEBI Registration No. INZ000209036SEBI Depository Participant Registration No. IN-DP-572-2021Mutual Fund distributor with AMFI Registration No. ARN:103168SEBI Registered Investment Advisor INA200005323Finwizard Technology Private Limited CIN number : U74900KA2015PTC080747SEBI Research Analyst No. INH000010238Registered Office AddressQueens Paradise, No. 16/1, 1st Floor Curve Road, Shivaji Nagar, Bengaluru, Karnataka 560071Correspondence/Communication AddressOffice No.1002, A wing, 10th Floor, Kanakia Wall Street, Hanuman Nagar, Andheri Kurla Road, Chakala, Andheri (East), Mumbai - 400093Tel: +91 96425 96425Compliance Officer Name : Krishna Jakkula; Email ID : compliance@fisdom.com ; +91 89519 49507For any grievances related to stock broking/dp, please write to grievances@fisdom.com,Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBIProcedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievancesDisclaimer: Investment in securities market are subject to market risks, read all the related documents carefully before investing.Download Client Registration Documents (Rights & Obligations, Risk Disclosure Document, Do's & Don'ts) in Vernacular Language: BSE | NSEAttention Investors +Prevent unauthorised transactions in your account. Update your mobile numbers/email IDs with your stock brokers. Receive information of your transactions directly from Exchange on your mobile/email at the end of the day. Issued in the interest of investors.KYC is one time exercise while dealing in securities markets - once KYC is done through a SEBI registered intermediary (broker, DP, Mutual Fund etc.), you need not undergo the same process again when you approach another intermediary.If you are subscribing to an IPO, there is no need to issue a cheque. Please write the Bank account number and sign the IPO application form to authorize your bank to make payment in case of allotment. In case of non allotment the funds will remain in your bank account.Stock brokers can accept securities as margins from clients only by way of pledge in the depository system w. e. f. September 01, 2020.Update your e-mail and phone number with your stock broker/depository participant and receive OTP directly from depository on your e-mail and/or mobile number to create pledge.Check your securities/MF/bonds in the consolidated account statement issued by NSDL/CDSL every month. Investors should be cautious on unsolicited emails and SMS advising to buy or sell securities and trade only on the basis of informed decisions.Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.View more information on Investor's Attention“Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.”Members are also advised to display the following messages on their respective websites under a separate banner “Advisory for investors”:Attention Investors!Beware of fixed/guaranteed/regular returns/ capital protection schemes. Brokers or their authorized persons or any of their associates are not authorized to offer fixed/guaranteed/regular returns/ capital protection on your investment or authorized to enter into any loan agreement with you to pay interest on the funds offered by you. Please note that in case of default of a member claim for funds or securities given to the broker under any arrangement/ agreement of indicative return will not be accepted by the relevant Committee of the Exchange as per the approved norms.Do not keep funds idle with the Stock Broker. Please note that your stock broker has to return the credit balance lying with them, within three working days in case you have not done any transaction within last 30 calendar days. Please note that in case of default of a Member, claim for funds and securities, without any transaction on the exchange will not be accepted by the relevant Committee of the Exchange as per the approved norms.Check the frequency of accounts settlement opted for. If you have opted for running account, please ensure that your broker settles your account and, in any case, not later than once in 90 days (or 30 days if you have opted for 30 days settlement). In case of declaration of trading member as defaulter, the claims of clients against such defaulter member would be subject to norms for eligibility of claims for compensation from IPF to the clients of the defaulter member. These norms are available on Exchange website at following link:BSE | NSE.Brokers are not permitted to accept transfer of securities as margin. Securities offered as margin/ collateral MUST remain in the account of the client and can be pledged to the broker only by way of ‘margin pledge’, created in the Depository system. Clients are not permitted to place any securities with the broker or associate of the broker or authorized person of the broker for any reason. Broker can take securities belonging to clients only for settlement of securities sold by the client.Always keep your contact details viz. Mobile number/Email ID updated with the stock broker. Email and mobile number is mandatory and you must provide the same to your broker for updation in Exchange records. You must immediately take up the matter with Stock Broker/Exchange if you are not receiving the messages from Exchange/Depositories regularly.Don't ignore any emails/SMSs received from the Exchange for trades done by you. Verify the same with the Contract notes/Statement of accounts received from your broker and report discrepancy, if any, to your broker in writing immediately and if the Stock Broker does not respond, please take this up with the Exchange/Depositories forthwith.Check messages sent by Exchanges on a weekly basis regarding funds and securities balances reported by the trading member, compare it with the weekly statement of account sent by broker and immediately raise a concern to the exchange if you notice a discrepancy.Please do not transfer funds, for the purposes of trading to anyone, including an authorized person or an associate of the broker, other than a SEBI registered Stock broker.”Precautions for clients dealing in OptionsClients/Investors are advised to avoid below-mentioned practices:Sharing of trading credentials – login id & passwords including OTP’s.Trading in leveraged products like options without proper understanding, which could lead tolossesWriting/ selling options or trading in option strategies based on tips, without basic knowledge& understanding of the product and its risksDealing in unsolicited tips through WhatsApp, Telegram, YouTube, Facebook, SMS, calls, etc.Trading in “Options” based on recommendations from unauthorised / unregistered investmentadvisors and influencers.
+
+
+
+
+
+
+
+
+
+
+​
+
+
+
+
+
+
+
+Close modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

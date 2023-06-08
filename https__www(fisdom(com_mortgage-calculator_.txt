@@ -1,0 +1,880 @@
+
+
+
+
+
+
+
+
+
+Mortgage Calculator - Online Demat, Trading, and Mutual Fund Investment in India - Fisdom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+                          Stocks
+                        
+
+
+
+
+
+
+
+
+                          IPOs & more
+                        
+
+
+
+
+
+
+
+
+                          Mutual Funds
+                        
+
+
+
+
+
+
+
+
+
+                          Pension Funds
+                        
+
+
+
+
+Private Wealth
+
+Resources
+
+
+
+
+
+
+
+                          Research
+                        
+
+
+
+
+
+
+
+
+                        One Percent Academy
+                        
+
+
+
+
+
+
+
+
+                          Blogs
+                        
+
+
+
+
+
+
+
+
+                          Calculators
+                        
+
+
+
+
+
+Company
+
+
+
+
+
+
+
+                          About us
+                        
+
+
+
+
+
+
+
+
+                          Careers
+                        
+
+
+
+
+
+
+
+
+                          Contact us
+                        
+
+
+
+
+
+
+
+Login
+Download app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog 
+
+ Calculators 
+
+
+
+
+
+
+
+Calculators
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Mortgage Calculator
+
+
+
+
+Deepak 
+
+Written by - Deepak 
+
+
+
+
+February 21, 2022						
+						7 minutes					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A mortgage, also known as loan against property, is a type of secured loan granted by banks against residential or commercial properties that are under the borrower’s ownership. Under this loan arrangement, the bank or lender retains the property as collateral until the borrower repays the loan in full. Mortgage loans can be availed by both salaried and non-salaried individuals. The loan repayment is further distributed over a period and can be paid through Equated Monthly Installment (EMI). This way, it doesn’t become a financial burden for the borrower.
+Before borrowing a loan against property or a mortgage, it is important for a borrower to know the EMI obligations that will follow. For this, one can make use of Fisdom ’s mortgage calculator. Here is everything that a mortgage borrower needs to know about using this calculator.
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1
+What is a mortgage calculator?
+
+ 
+2
+What are the factors involved in mortgage EMI calculation?
+
+ 
+3
+How to use Fisdom ’s mortgage calculator?
+
+ 
+4
+How does the mortgage calculator work?
+
+ 
+5
+What are the advantages of using Fisdom ’s mortgage calculator?
+
+ 
+6
+What are the benefits of a mortgage loan?
+
+ 
+7
+Conclusion
+
+ 
+8
+FAQs
+
+
+
+What is a mortgage calculator?
+The mortgage EMI calculator:
+
+is an online tool 
+helps borrowers know the precise EMIs to be paid to lender every month
+
+The calculator requires three main components to calculate loan EMI amounts. These are:
+
+Loan amount
+Interest rate 
+Loan tenure 
+
+Once these components are entered, the mortgage calculator will show the monthly EMI to be paid within a matter of seconds. The loan against property EMI calculator has three sliders for the components to be input. Once a user fills in the details, the calculator displays the mortgage EMI amount to be paid to the lender every month. All the EMIs paid throughout the loan tenure will result in complete repayment of the mortgage or loan against property.
+What are the factors involved in mortgage EMI calculation?
+As mentioned earlier, there are 3 important factors that are crucial to the mortgage EMI calculation. Here are the details surrounding these factors:
+
+Mortgage amount: The loan amount that can be availed against property depends on the property being mortgaged. However, the larger the loan taken, the higher the EMIs.
+Mortgage tenure: The loan tenure for a mortgage loan is usually calculated by banks as per the borrower’s present age and the estimated retirement age. If the loan tenure is longer, the EMIs are generally smaller.
+Rate of interest: An important determinant that influences the ability and ease of mortgage loan repayment is the interest rate. A higher interest rate may impact the chances of sourcing a larger loan amount or it can result in a longer loan repayment tenure. A lower interest rate, however, can let borrowers take a larger loan amount and make the loan repayment easier. The interest rate charged by banks may depend on the type of property being mortgaged, the borrower’s credit profile, etc. Interest rates can be floating or fixed, depending on the bank or lending institution.
+
+How to use Fisdom ’s mortgage calculator?
+Fisdom ’s mortgage calculator is an automated tool that shows borrowers the monthly amount that they must pay towards the loan repayment. 
+To estimate the EMI applicable on the mortgage loan, a user can make use of the sliders that are incorporated in the calculator. These sliders allow users to adjust the values of:
+
+Mortgage amount 
+Mortgage tenure 
+Rate of interest 
+
+Here are the steps to be followed for calculating the loan EMI using the mortgage calculator:
+
+Choose the mortgage loan amount using the slider
+Choose the mortgage tenure in years
+Select the applicable rate of interest
+The calculator will calculate the:
+
+EMI amount and
+total interest outflow
+
+
+It is easy to recalculate the EMI amount at any time by modifying the numbers through input sliders
+The calculator estimates the EMI instantly once the slider inputs are modified
+
+How does the mortgage calculator work?
+The mortgage calculator uses the following formula to estimate the EMI amount:
+EMI amount = [M x I x (1+I)^T]/[(1+I)^T-1] 
+Here, 
+M = mortgage amount
+I = interest rate and 
+T = mortgage tenure
+All the above-mentioned are variables. 
+Thus, every time that a user changes any of these variables in the calculator, the EMI value will also change. The EMI amount must be paid each month and the loan tenure must be entered in years. 
+Here is an example to understand how it works:
+Suppose an individual avails a mortgage loan of Rs. 10 lakhs with an interest rate of 10%, for 6 years. 
+The EMI calculation will be: 
+M = 10 lakhs, 
+I = 10/100/12 (to convert the rate into months), 
+T = 6 years or 72 months. 
+EMI = [10,00,000 x 10/100/12 x (1+10/100/12)^72] / [(1+10/100/12)^72-1] 
+EMI = Rs. 18,525
+What are the advantages of using Fisdom ’s mortgage calculator?
+Fisdom ’s mortgage calculator tells users, within a few seconds, the EMI that they will have to pay on a mortgage loan. Here are some of the benefits of using this calculator:
+
+It can help in budgeting of expenses to meet immediate and long-term financial goals.
+The calculator is easy to use and with only three inputs required to get an EMI estimate.
+One can save time that would otherwise be required to manually calculate the EMI.
+If a borrower uses this calculator before applying for a mortgage loan, he/she can gauge personal repayment capability and accordingly make the loan application. 
+The calculator is free of cost and is available online.
+
+What are the benefits of a mortgage loan?
+Some of the reasons why many borrowers prefer a mortgage loan are:
+
+A mortgage loan or loan against property generally comes with lower interest rates as compared to other unsecured loans, like personal loans.
+One can avail this type of loan for a longer duration and conveniently repay the same.
+These loans come with different interest rates and repayment options.
+A mortgage loan can be availed against residential or commercial properties.
+It involves an easy documentation process and most banks in India offer this loan.
+The loan amount can further be used for payment towards a house, meeting any financial requirement like funding a business, medical expenses, child’s education, etc.
+
+Conclusion
+Make use of Fisdom ’s mortgage calculator to take better control of your finances and be well prepared before opting for a mortgage loan. It saves time and hassle of manually estimating the EMI payments towards a mortgage loan. 
+FAQs
+1. Will the mortgage calculator estimate the loan repayment schedule? You can estimate the repayment schedule based on the EMI amount that is displayed by the mortgage calculator. This will depend on the loan amount and tenure.  2. Can I use an EMI calculator in place of a mortgage calculator? Since this calculator is specifically designed for mortgage loans, you can use it to know the exact mortgage EMI amount that you will have to pay through the loan tenure.  3. Is credit score important for availing a mortgage loan? Yes, every bank and financial institution checks the credit score of an applicant while granting a mortgage loan. Credit score helps lenders to determine creditworthiness of an applicant.  4. Will I have to pay a higher interest rate on a mortgage loan if my credit score is low? Some banks and lenders may charge a higher interest rate on mortgage loans for borrowers with a low credit score. This is because a low credit score indicates poor creditworthiness and increases the risk of lending for banks.  5. How is a mortgage loan different from a home loan? A mortgage loan requires a borrower to provide their property as a collateral against the loan amount. In case of home loans, there is no need to offer the property as collateral. The interest rates of mortgage loans are usually lower than home loans. Also, mortgage loans can be used for various financial needs, whereas a home loan has to be used for payment towards purchasing a home.  
+
+
+
+
+Share the article
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+					Get exclusive content
+					and expert advice
+				
+Subscribe to fisdom to get regular updates in the finance world delivered to your inbox each month
+
+
+
+
+
+
+Subscribe
+
+
+
+
+				Fisdom Story
+			
+
+
+
+
+
+Popular CalculatorsCAGR Calculator 2023
+Compound Interest Calculator
+FD Calculator
+Gratuity Calculator – Simple Gratuity Calculation Online 2023
+HRA Calculator
+Free Online Tax Calculator for 2023-24 for Income Tax Slabs, – New vs Old Regime
+Lumpsum Calculator
+Fisdom NPS Calculator: Best free online tool for pension & annuity planning in India
+Employee Provident Fund (EPF) Calculator Online
+Online PPF Calculator 2023-24 – Calculate return for your PPF Account at current interest rate
+RD Calculator
+Retirement Calculator
+SIP Calculator
+Step Up SIP Calculator – Invest in Mutual Funds
+SWP Calculator: Best Online Tool for mutual fund Systematic Withdrawal Plan & Tax-efficient monthly income in India
+Budget 2023 Highlights: PDF Download, Key Takeaways, Important Points
+ 
+
+
+				Popular articles
+			
+
+
+
+
+
+
+Large Cap Stocks – What is it, Features & Factors to be Considered              
+
+
+
+
+
+
+
+
+
+Top Stocks Under Rs. 100 to Invest in 2023              
+
+
+
+
+
+
+
+
+
+Beta in Indian stocks – Types, Should you invest in high beta stocks?              
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									National Saving Certificate Calculator Online								
+
+07 Mar								
+								7 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Business loan EMI calculator – How to calculate business loan EMI?								
+
+12 Aug								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Bike Loan EMI Calculator – Calculate amount for Two Wheeler Loan								
+
+24 Jul								
+								5 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Crypto Tax Calculator								
+
+07 Apr								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Depreciation Calculator								
+
+03 Mar								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Gold Loan EMI Calculator								
+
+02 Mar								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Return on Investment (ROI) Calculator								
+
+21 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Online Business Loan EMI Calculator								
+
+07 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									House Loan EMI Calculator								
+
+07 Feb								
+								5 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Car Loan EMI Calculator								
+
+07 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Online EMI Calculator								
+
+07 Feb								
+								5 minutes							
+
+
+
+
+
+
+
+
+
+
+Download one of India's best wealth management apps
+Join more than one million investors and take control of your wealth
+Download app
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download the Fisdom app here
+       Google Play      App store  
+
+
+
+
+
+CompanyAbout us
+Pricing
+Careers
+Blog
+Fisdom in News
+
+
+
+
+
+ProductStock / F&O
+Mutual Fund
+IPO & more
+Pension Funds
+ 
+
+
+
+Help & SupportKnowledge Base
+Contact us
+Brokerage Calculator
+Advisory KYC Updation
+Policies
+Privacy Policy
+Terms
+Investor Charter
+Investor Complaints
+Download Forms
+Disclaimer
+Refund
+Scheme Offer Documents
+Bank Details
+Glossary
+Regulatory Disclosure
+ 
+
+
+
+
+Follow us:
+
+
+
+
+We are well certified
+
+
+
+SEBI Registered Investment Advisor INA200005323
+
+
+
+BSE Registered Mutual Fund Distributor Code No:10140
+
+
+
+IRDAI Corporate Agent Finwizard Technology Pvt Ltd CA License No:
+            CA0505
+            License Valid till: 19-Jun-2023
+
+
+
+256 Bit SSL encryption security
+
+
+
+Association of Mutual Funds of India Registered Mutual Fund
+            Distributor
+            ARN:103168
+
+
+2023 Copyright, All Right Reserved, Built for Investors, Pro Traders &
+        Beginners with Finwizard Technology Private Limited is a member of National Stock Exchange of India Limited (Member code:90228) & BSE Limited (Member code:6696 ) SEBI Registration No. INZ000209036SEBI Depository Participant Registration No. IN-DP-572-2021Mutual Fund distributor with AMFI Registration No. ARN:103168SEBI Registered Investment Advisor INA200005323Finwizard Technology Private Limited CIN number : U74900KA2015PTC080747SEBI Research Analyst No. INH000010238Registered Office AddressQueens Paradise, No. 16/1, 1st Floor Curve Road, Shivaji Nagar, Bengaluru, Karnataka 560071Correspondence/Communication AddressOffice No.1002, A wing, 10th Floor, Kanakia Wall Street, Hanuman Nagar, Andheri Kurla Road, Chakala, Andheri (East), Mumbai - 400093Tel: +91 96425 96425Compliance Officer Name : Krishna Jakkula; Email ID : compliance@fisdom.com ; +91 89519 49507For any grievances related to stock broking/dp, please write to grievances@fisdom.com,Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBIProcedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievancesDisclaimer: Investment in securities market are subject to market risks, read all the related documents carefully before investing.Download Client Registration Documents (Rights & Obligations, Risk Disclosure Document, Do's & Don'ts) in Vernacular Language: BSE | NSEAttention Investors +Prevent unauthorised transactions in your account. Update your mobile numbers/email IDs with your stock brokers. Receive information of your transactions directly from Exchange on your mobile/email at the end of the day. Issued in the interest of investors.KYC is one time exercise while dealing in securities markets - once KYC is done through a SEBI registered intermediary (broker, DP, Mutual Fund etc.), you need not undergo the same process again when you approach another intermediary.If you are subscribing to an IPO, there is no need to issue a cheque. Please write the Bank account number and sign the IPO application form to authorize your bank to make payment in case of allotment. In case of non allotment the funds will remain in your bank account.Stock brokers can accept securities as margins from clients only by way of pledge in the depository system w. e. f. September 01, 2020.Update your e-mail and phone number with your stock broker/depository participant and receive OTP directly from depository on your e-mail and/or mobile number to create pledge.Check your securities/MF/bonds in the consolidated account statement issued by NSDL/CDSL every month. Investors should be cautious on unsolicited emails and SMS advising to buy or sell securities and trade only on the basis of informed decisions.Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.View more information on Investor's Attention“Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.”Members are also advised to display the following messages on their respective websites under a separate banner “Advisory for investors”:Attention Investors!Beware of fixed/guaranteed/regular returns/ capital protection schemes. Brokers or their authorized persons or any of their associates are not authorized to offer fixed/guaranteed/regular returns/ capital protection on your investment or authorized to enter into any loan agreement with you to pay interest on the funds offered by you. Please note that in case of default of a member claim for funds or securities given to the broker under any arrangement/ agreement of indicative return will not be accepted by the relevant Committee of the Exchange as per the approved norms.Do not keep funds idle with the Stock Broker. Please note that your stock broker has to return the credit balance lying with them, within three working days in case you have not done any transaction within last 30 calendar days. Please note that in case of default of a Member, claim for funds and securities, without any transaction on the exchange will not be accepted by the relevant Committee of the Exchange as per the approved norms.Check the frequency of accounts settlement opted for. If you have opted for running account, please ensure that your broker settles your account and, in any case, not later than once in 90 days (or 30 days if you have opted for 30 days settlement). In case of declaration of trading member as defaulter, the claims of clients against such defaulter member would be subject to norms for eligibility of claims for compensation from IPF to the clients of the defaulter member. These norms are available on Exchange website at following link:BSE | NSE.Brokers are not permitted to accept transfer of securities as margin. Securities offered as margin/ collateral MUST remain in the account of the client and can be pledged to the broker only by way of ‘margin pledge’, created in the Depository system. Clients are not permitted to place any securities with the broker or associate of the broker or authorized person of the broker for any reason. Broker can take securities belonging to clients only for settlement of securities sold by the client.Always keep your contact details viz. Mobile number/Email ID updated with the stock broker. Email and mobile number is mandatory and you must provide the same to your broker for updation in Exchange records. You must immediately take up the matter with Stock Broker/Exchange if you are not receiving the messages from Exchange/Depositories regularly.Don't ignore any emails/SMSs received from the Exchange for trades done by you. Verify the same with the Contract notes/Statement of accounts received from your broker and report discrepancy, if any, to your broker in writing immediately and if the Stock Broker does not respond, please take this up with the Exchange/Depositories forthwith.Check messages sent by Exchanges on a weekly basis regarding funds and securities balances reported by the trading member, compare it with the weekly statement of account sent by broker and immediately raise a concern to the exchange if you notice a discrepancy.Please do not transfer funds, for the purposes of trading to anyone, including an authorized person or an associate of the broker, other than a SEBI registered Stock broker.”Precautions for clients dealing in OptionsClients/Investors are advised to avoid below-mentioned practices:Sharing of trading credentials – login id & passwords including OTP’s.Trading in leveraged products like options without proper understanding, which could lead tolossesWriting/ selling options or trading in option strategies based on tips, without basic knowledge& understanding of the product and its risksDealing in unsolicited tips through WhatsApp, Telegram, YouTube, Facebook, SMS, calls, etc.Trading in “Options” based on recommendations from unauthorised / unregistered investmentadvisors and influencers.
+
+
+
+
+
+
+
+
+
+
+​
+
+
+
+
+
+
+
+Close modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

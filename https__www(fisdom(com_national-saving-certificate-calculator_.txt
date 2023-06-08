@@ -1,0 +1,938 @@
+
+
+
+
+
+
+
+
+
+National Saving Certificate Calculator Online - Fisdom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+                          Stocks
+                        
+
+
+
+
+
+
+
+
+                          IPOs & more
+                        
+
+
+
+
+
+
+
+
+                          Mutual Funds
+                        
+
+
+
+
+
+
+
+
+
+                          Pension Funds
+                        
+
+
+
+
+Private Wealth
+
+Resources
+
+
+
+
+
+
+
+                          Research
+                        
+
+
+
+
+
+
+
+
+                        One Percent Academy
+                        
+
+
+
+
+
+
+
+
+                          Blogs
+                        
+
+
+
+
+
+
+
+
+                          Calculators
+                        
+
+
+
+
+
+Company
+
+
+
+
+
+
+
+                          About us
+                        
+
+
+
+
+
+
+
+
+                          Careers
+                        
+
+
+
+
+
+
+
+
+                          Contact us
+                        
+
+
+
+
+
+
+
+Login
+Download app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog 
+
+ Calculators 
+
+
+
+
+
+
+
+Calculators
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+National Saving Certificate Calculator Online
+
+
+
+
+Deepak 
+
+Written by - Deepak 
+
+
+
+
+March 7, 2023						
+						7 minutes					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+There are multiple investments options available for investors in today’s era for them to choose from based on their risk appetite and return perception. While mutual funds are an excellent investment option for any category of investors, it is also important for investors to balance their portfolios with risk-free investments. An ideal portfolio is a healthy mix of aggressive investments as well as stable investments with assured returns. A very good option in the portfolio to minimize the risk is NSC. Given below is the meaning of NSC and NSC calculators as well as the need for the latter.
+What is NSC?
+NSC or National Savings Certificate is a government-backed savings scheme that allows investors to invest in fixed income plans. This scheme being backed by the government makes it a risk-free option along with giving the benefit of deduction under section 80C for investment up to Rs. 1,50,000 in any financial year. This scheme is available through post offices in India and can be availed by resident Indians only. Non-resident Indians and HUF are not allowed to invest in this scheme. 
+NSC is one of the many risk-free investment options backed by the government but the USP of this investment is the tenure which is 5 years. This reduced tenure, although fixed, gives it an edge as compared to other similar products like PF, NPS, etc. Also, the current interest rate offered in this investment is 6.8% per annum. This interest is compounded annually and paid to the investors upon maturity of the investment. 
+What is an NSC calculator?
+This scheme is aimed to provide an easier investment option for small and medium-income groups. Compounding is the key to maximizing one’s wealth but it makes it difficult for the average investors to calculate their net interest benefit or the final amount that they will receive upon maturity. This is where NSC calculators can be quite handy. 
+An NSC calculator allows the investors to calculate the exact amount of interest that will be received by the investor at the end of each year as well as the total interest benefit. Furthermore, this calculator can help the investors to get a fair estimate of the amount that needs to be invested to achieve their target amount at the end of the tenure of NSC.
+How to use the Fisdom NSC calculator?
+Fisdom provides the investors with an NSC calculator that eases the investment calculation and gives them a fair idea of the amount that will be available to them at the maturity of their investment. There are three main components (principal investment amount, rate of interest, tenure) that are used to calculate the amount of interest and the maturity amount at the end of 5 years. 
+To understand the calculation of the final amount at the time of maturity, let us consider the following example. 
+Investor A has an initial investment amount of Rs. 1,00,000 which is to be invested in NSC and will be compounded yearly at the arete of 6.8%. The calculation of the amount at maturity is given below.
+
+
+
+
+Year
+
+
+Amount invested at the start of the year
+
+
+Interest Rate
+
+
+Interest amount
+
+
+Amount at the end of the year
+
+
+
+
+1
+
+
+100000
+
+
+6.80%
+
+
+6800
+
+
+106800
+
+
+
+
+2
+
+
+106800
+
+
+6.80%
+
+
+7262.4
+
+
+114062.4
+
+
+
+
+3
+
+
+114062.4
+
+
+6.80%
+
+
+7756.24
+
+
+121818.6
+
+
+
+
+4
+
+
+121818.6
+
+
+6.80%
+
+
+8283.668
+
+
+130102.3
+
+
+
+
+5
+
+
+130102.3
+
+
+6.80%
+
+
+8846.957
+
+
+138949.3
+
+
+
+
+Total
+
+ 
+ 
+
+38949.27
+
+ 
+
+
+
+The above calculation is simplified by the NSC calculator available on Fisdom . The users have to simply follow the steps given below to get the final amount that will be received upon maturity as well as the total interest earned by them during the tenure of investment.  
+
+Enter the initial amount of investment
+Enter the current rate of interest 
+Enter the tenure of investment which is 5 years
+
+After providing the above data, users will get the maturity amount and the total interest amount displayed on their screen.  
+What are the benefits of the NSC and NSC calculator?
+NSC is one of the oldest government savings schemes that was launched for the benefit of the average Indian. Some of the key features of the scheme are,
+
+Investors can start investing in NSC with an amount as low as Rs. 100 without any upper limit on the maximum amount that can be invested in NSC.
+The scheme provides risk-free interest income at the rate of 6.80% which is compounded annually and given to the investor upon maturity along with the total amount accumulated in their account. 
+The scheme is easily accessible to every Indian in every nook and corner of the country as it is available through the vast network of post offices. 
+Investors get tax deduction under section 80C for their investment in NSC up to Rs. 1,50,000 in any financial year.  
+Most banks and NBFCs accept NSC as collateral for any loan.
+NSC can be easily transferred from one post office to another or from one person to another.
+NSC also has a nomination facility as well as a premature withdrawal facility. However, investors can withdraw from the scheme prior to completion of the tenure (lock-in period) of 5 years only in specified conditions. 
+
+After discussing the benefits of NSC, let us not highlight the benefits of the NSC calculator.
+
+NSC calculator simplifies the calculation of the interest and final amount at maturity making it convenient for any investor even if they have no knowledge about compounding.
+This tool is 100% accurate apart from being available free of cost to everyone making it time-saving and easy to understand. 
+NSC calculators allow the investors to calculate the amount of initial investment to meet their target amount at the end of maturity. 
+
+NSC Maturity Period & Interest Rates
+Investors can earn a fixed interest rate of 7% per annum with the National Savings Certificate (NSC), which has a five-year fixed maturity period. While there is no maximum limit on the purchase of NSCs, only investments of up to Rs.1.5 lakh can provide a tax break under Section 80C of the Income Tax Act.
+Conclusion
+NSC calculators are an important tool that can help investors get an idea of the amount that can be received by them at the end of their investment tenure. This tool is quite helpful for small and relatively uneducated investors, especially from small towns who may not have a fair idea of the amount that needs to be invested and the concept of compounding. 
+FAQs
+
+1. Who cannot invest in NSC?
+A. The eligible investors of NSC are resident Indians. The scheme explicitly disallows the following entities from investing in NSC.NRIsHUFs,TrustsSocieties or other institutions
+
+2. What is the frequency of compounding for investment in NSC?
+Interest on investment in NSC is provided at the rate of 6.8% currently and is compounded annually.
+
+3. What are the key factors needed for the calculation of interest received from NSC?
+The key inputs needed for the calculation of interest that is received from investment in NSC are tenure of investment (which is fixed at 5 years), amount of initial investment, and the current rate of interest.
+
+4. What is the deduction available for investment in NSC?
+Investors can get a tax deduction of up to Rs. 1,50,000 under section 80C for their investment in NSC.
+
+
+ 
+
+
+Related Links
+
+NSC -Interest Rates & Tax Benefits
+How many stock exchanges are in India?
+Rules of equity investing
+How can compound interest make you rich?
+All about thumb rule of 15*15*15 in mutual funds
+
+
+
+
+
+Share the article
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+					Get exclusive content
+					and expert advice
+				
+Subscribe to fisdom to get regular updates in the finance world delivered to your inbox each month
+
+
+
+
+
+
+Subscribe
+
+
+
+
+				Fisdom Story
+			
+
+
+
+
+
+Popular CalculatorsCAGR Calculator 2023
+Compound Interest Calculator
+FD Calculator
+Gratuity Calculator – Simple Gratuity Calculation Online 2023
+HRA Calculator
+Free Online Tax Calculator for 2023-24 for Income Tax Slabs, – New vs Old Regime
+Lumpsum Calculator
+Fisdom NPS Calculator: Best free online tool for pension & annuity planning in India
+Employee Provident Fund (EPF) Calculator Online
+Online PPF Calculator 2023-24 – Calculate return for your PPF Account at current interest rate
+RD Calculator
+Retirement Calculator
+SIP Calculator
+Step Up SIP Calculator – Invest in Mutual Funds
+SWP Calculator: Best Online Tool for mutual fund Systematic Withdrawal Plan & Tax-efficient monthly income in India
+Budget 2023 Highlights: PDF Download, Key Takeaways, Important Points
+ 
+
+
+				Popular articles
+			
+
+
+
+
+
+
+Large Cap Stocks – What is it, Features & Factors to be Considered              
+
+
+
+
+
+
+
+
+
+Top Stocks Under Rs. 100 to Invest in 2023              
+
+
+
+
+
+
+
+
+
+Beta in Indian stocks – Types, Should you invest in high beta stocks?              
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Business loan EMI calculator – How to calculate business loan EMI?								
+
+12 Aug								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Bike Loan EMI Calculator – Calculate amount for Two Wheeler Loan								
+
+24 Jul								
+								5 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Crypto Tax Calculator								
+
+07 Apr								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Depreciation Calculator								
+
+03 Mar								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Gold Loan EMI Calculator								
+
+02 Mar								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Return on Investment (ROI) Calculator								
+
+21 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Mortgage Calculator								
+
+21 Feb								
+								7 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Online Business Loan EMI Calculator								
+
+07 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									House Loan EMI Calculator								
+
+07 Feb								
+								5 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Car Loan EMI Calculator								
+
+07 Feb								
+								6 minutes							
+
+
+
+
+
+
+
+
+Calculators 
+
+
+									Online EMI Calculator								
+
+07 Feb								
+								5 minutes							
+
+
+
+
+
+
+
+
+
+
+Download one of India's best wealth management apps
+Join more than one million investors and take control of your wealth
+Download app
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download the Fisdom app here
+       Google Play      App store  
+
+
+
+
+
+CompanyAbout us
+Pricing
+Careers
+Blog
+Fisdom in News
+
+
+
+
+
+ProductStock / F&O
+Mutual Fund
+IPO & more
+Pension Funds
+ 
+
+
+
+Help & SupportKnowledge Base
+Contact us
+Brokerage Calculator
+Advisory KYC Updation
+Policies
+Privacy Policy
+Terms
+Investor Charter
+Investor Complaints
+Download Forms
+Disclaimer
+Refund
+Scheme Offer Documents
+Bank Details
+Glossary
+Regulatory Disclosure
+ 
+
+
+
+
+Follow us:
+
+
+
+
+We are well certified
+
+
+
+SEBI Registered Investment Advisor INA200005323
+
+
+
+BSE Registered Mutual Fund Distributor Code No:10140
+
+
+
+IRDAI Corporate Agent Finwizard Technology Pvt Ltd CA License No:
+            CA0505
+            License Valid till: 19-Jun-2023
+
+
+
+256 Bit SSL encryption security
+
+
+
+Association of Mutual Funds of India Registered Mutual Fund
+            Distributor
+            ARN:103168
+
+
+2023 Copyright, All Right Reserved, Built for Investors, Pro Traders &
+        Beginners with Finwizard Technology Private Limited is a member of National Stock Exchange of India Limited (Member code:90228) & BSE Limited (Member code:6696 ) SEBI Registration No. INZ000209036SEBI Depository Participant Registration No. IN-DP-572-2021Mutual Fund distributor with AMFI Registration No. ARN:103168SEBI Registered Investment Advisor INA200005323Finwizard Technology Private Limited CIN number : U74900KA2015PTC080747SEBI Research Analyst No. INH000010238Registered Office AddressQueens Paradise, No. 16/1, 1st Floor Curve Road, Shivaji Nagar, Bengaluru, Karnataka 560071Correspondence/Communication AddressOffice No.1002, A wing, 10th Floor, Kanakia Wall Street, Hanuman Nagar, Andheri Kurla Road, Chakala, Andheri (East), Mumbai - 400093Tel: +91 96425 96425Compliance Officer Name : Krishna Jakkula; Email ID : compliance@fisdom.com ; +91 89519 49507For any grievances related to stock broking/dp, please write to grievances@fisdom.com,Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBIProcedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievancesDisclaimer: Investment in securities market are subject to market risks, read all the related documents carefully before investing.Download Client Registration Documents (Rights & Obligations, Risk Disclosure Document, Do's & Don'ts) in Vernacular Language: BSE | NSEAttention Investors +Prevent unauthorised transactions in your account. Update your mobile numbers/email IDs with your stock brokers. Receive information of your transactions directly from Exchange on your mobile/email at the end of the day. Issued in the interest of investors.KYC is one time exercise while dealing in securities markets - once KYC is done through a SEBI registered intermediary (broker, DP, Mutual Fund etc.), you need not undergo the same process again when you approach another intermediary.If you are subscribing to an IPO, there is no need to issue a cheque. Please write the Bank account number and sign the IPO application form to authorize your bank to make payment in case of allotment. In case of non allotment the funds will remain in your bank account.Stock brokers can accept securities as margins from clients only by way of pledge in the depository system w. e. f. September 01, 2020.Update your e-mail and phone number with your stock broker/depository participant and receive OTP directly from depository on your e-mail and/or mobile number to create pledge.Check your securities/MF/bonds in the consolidated account statement issued by NSDL/CDSL every month. Investors should be cautious on unsolicited emails and SMS advising to buy or sell securities and trade only on the basis of informed decisions.Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.View more information on Investor's Attention“Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 & vide notice no. BSE 20200731-7 dated July 31, 2020 and BSE 20200831-45 dated August 31, 2020 and other guidelines issued from time to time in this regard.”Members are also advised to display the following messages on their respective websites under a separate banner “Advisory for investors”:Attention Investors!Beware of fixed/guaranteed/regular returns/ capital protection schemes. Brokers or their authorized persons or any of their associates are not authorized to offer fixed/guaranteed/regular returns/ capital protection on your investment or authorized to enter into any loan agreement with you to pay interest on the funds offered by you. Please note that in case of default of a member claim for funds or securities given to the broker under any arrangement/ agreement of indicative return will not be accepted by the relevant Committee of the Exchange as per the approved norms.Do not keep funds idle with the Stock Broker. Please note that your stock broker has to return the credit balance lying with them, within three working days in case you have not done any transaction within last 30 calendar days. Please note that in case of default of a Member, claim for funds and securities, without any transaction on the exchange will not be accepted by the relevant Committee of the Exchange as per the approved norms.Check the frequency of accounts settlement opted for. If you have opted for running account, please ensure that your broker settles your account and, in any case, not later than once in 90 days (or 30 days if you have opted for 30 days settlement). In case of declaration of trading member as defaulter, the claims of clients against such defaulter member would be subject to norms for eligibility of claims for compensation from IPF to the clients of the defaulter member. These norms are available on Exchange website at following link:BSE | NSE.Brokers are not permitted to accept transfer of securities as margin. Securities offered as margin/ collateral MUST remain in the account of the client and can be pledged to the broker only by way of ‘margin pledge’, created in the Depository system. Clients are not permitted to place any securities with the broker or associate of the broker or authorized person of the broker for any reason. Broker can take securities belonging to clients only for settlement of securities sold by the client.Always keep your contact details viz. Mobile number/Email ID updated with the stock broker. Email and mobile number is mandatory and you must provide the same to your broker for updation in Exchange records. You must immediately take up the matter with Stock Broker/Exchange if you are not receiving the messages from Exchange/Depositories regularly.Don't ignore any emails/SMSs received from the Exchange for trades done by you. Verify the same with the Contract notes/Statement of accounts received from your broker and report discrepancy, if any, to your broker in writing immediately and if the Stock Broker does not respond, please take this up with the Exchange/Depositories forthwith.Check messages sent by Exchanges on a weekly basis regarding funds and securities balances reported by the trading member, compare it with the weekly statement of account sent by broker and immediately raise a concern to the exchange if you notice a discrepancy.Please do not transfer funds, for the purposes of trading to anyone, including an authorized person or an associate of the broker, other than a SEBI registered Stock broker.”Precautions for clients dealing in OptionsClients/Investors are advised to avoid below-mentioned practices:Sharing of trading credentials – login id & passwords including OTP’s.Trading in leveraged products like options without proper understanding, which could lead tolossesWriting/ selling options or trading in option strategies based on tips, without basic knowledge& understanding of the product and its risksDealing in unsolicited tips through WhatsApp, Telegram, YouTube, Facebook, SMS, calls, etc.Trading in “Options” based on recommendations from unauthorised / unregistered investmentadvisors and influencers.
+
+
+
+
+
+
+
+
+
+
+​
+
+
+
+
+
+
+
+Close modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
