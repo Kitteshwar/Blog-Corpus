@@ -359,7 +359,8 @@ The steps for using the Fisdom business loan EMI calculator are given below.
 
 Visit the Fisdom website and click on the ‘Resources’ tab on the homepage. 
 Under this tab select ‘Business loan EMI calculator
-The user will need to provide the following basic details of the loan,
+The user will need to provide the following basic details of the loan,
+
 
 Amount of loan
 The interest rate on the loan
@@ -375,7 +376,8 @@ FAQs
  Can a business loan EMI calculator be used by anyone?
 Yes. The business loan EMI calculator can be used by any person having a small-sized business or a large scale company.
 
-Is the Fisdom business loan EMI calculator available free of cost?
+Is the Fisdom business loan EMI calculator available free of cost?
+
 Yes. Fisdom business loan EMI calculator is available free of cost on the website for the use of any entrepreneur and can be used multiple times to calculate loan EMI.
 
 Why is it important to calculate business loan EMI before applying for any business loan?

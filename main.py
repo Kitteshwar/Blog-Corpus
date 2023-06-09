@@ -1,42 +1,27 @@
 import os
-import requests
-from bs4 import BeautifulSoup
+import re
+import chardet
 
-def get_page_text(url):
-    try:
-        response = requests.get(url,headers = {
-        'sec-ch-ua': '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
-        'Referer': 'https://www.fisdom.com/blog/',
-        'DNT': '1',
-        'sec-ch-ua-mobile': '?0',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-        'sec-ch-ua-platform': '"Windows"',
-    })
-        response.raise_for_status()
+def detect_encoding(file_path):
+    with open(file_path, 'rb') as f:
+        result = chardet.detect(f.read())
+    return result['encoding']
 
-        soup = BeautifulSoup(response.text, 'html.parser')
-        text = soup.get_text()
+def remove_paragraph(directory_path, paragraph):
+    for root, dirs, files in os.walk(directory_path):
+        for file in files:
+            file_path = os.path.join(root, file)
+            encoding = detect_encoding(file_path)
+            with open(file_path, 'r',encoding=encoding) as f:
+                content = f.read()
+            # replace the paragraph with nothing
+            content = content.replace(paragraph, '')
+            with open(file_path, 'w',encoding=encoding) as f:
+                f.write(content)
 
-        return text
-    except Exception as e:
-        print(f"An error occurred while fetching data from {url}: {e}")
-        return None
+# Path to the directory where the files are
+directory_path = 'F:/fisdomGPT'
+# The paragraph to remove
+paragraph = """"""
 
-def write_to_file(filename, content):
-    try:
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(content)
-    except Exception as e:
-        print(f"An error occurred while writing to file {filename}: {e}")
-
-def process_links_file(filename):
-    with open(filename, 'r') as file:
-        for line in file:
-            url = line.strip()
-            text = get_page_text(url)
-            if text is not None:
-                safe_filename = url.replace("/", "_").replace(":","").replace(".","(") + '.txt' 
-                write_to_file(safe_filename, text)
-
-# provide your text file name that contains the list of urls
-process_links_file("C:/Users/tanya/Desktop/filtered_links.txt")
+remove_paragraph(directory_path, paragraph)

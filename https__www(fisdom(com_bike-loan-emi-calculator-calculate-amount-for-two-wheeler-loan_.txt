@@ -317,7 +317,8 @@ The bike loan EMI calculator is available on FInity under the tab ‘Resources�
 The steps to use the Finity bike loan EMI calculator are,
 
 Click on the resources tab on the homepage and select ‘Bike Loan EMI calculator’
-A new page will be displayed on the screen, where users will have to enter the required data i.e.,
+A new page will be displayed on the screen, where users will have to enter the required data i.e.,
+
 
 Loan amount
 Tenure of loan
